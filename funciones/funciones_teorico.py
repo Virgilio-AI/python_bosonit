@@ -1,4 +1,3 @@
-
 # Date: 05/April/2023 - Wednesday
 # Author: Virgilio Murillo Ochoa
 # personal github: Virgilio-AI
@@ -12,13 +11,10 @@ from collections import deque
 from collections import defaultdict
 import sys
 
-# dic = defaultdict(int)
-# set = set() # .remove(val),.add(val),.discard(val),.pop(),.clear()
-# dic = {} # .remove(id),dic[key] = val, dic.get(key,0)
-# arr = [] # .append(val),.pop(),.remove(val),.sort(),.reverse(),.insert(pos,val),.clear()
 
-
-# def input(f=open(".funciones_In1.txt")): return f.readline().rstrip() # uncomment for debugging
+# =============
+# ==== diapositiva 1 =====
+# =============
 
 # Función 1
 def showAnimal(name, n_legs):
@@ -55,8 +51,10 @@ def sumUntilZero(n):
 		total += i
 	return total
 
+# =============
+# ==== slide two =====
+# =============
 
-## slide two
 # Función 1
 square = lambda x: x ** 2
 
