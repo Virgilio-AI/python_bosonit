@@ -1,8 +1,7 @@
-venv
-segundofichero.txt
-primerfichero.txt
-pandas_practice.xlsx
-__pycache__
-.code-runner
-envi
-funciones/simpleml.py
+clases_y_objetos/envi
+flask/venv
+funciones/EjerciciosAlgoritmia/.code-runner
+funciones/envi
+numpy_practice/envi
+*envi*
+*venv*
